@@ -33,6 +33,7 @@ elseif($cafe=="Kenya")
 {
     $prix=$prix+4.21;
 }
+// nathan04/03/2022: coucou toi
 
 if($type=="Moulu")
 {
