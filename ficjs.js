@@ -24,7 +24,7 @@
                                         return boolCafe;
 			}
 
-			//nathan04/03/2022: coucou toi
+			
 
 			function checkNom()
 			{
