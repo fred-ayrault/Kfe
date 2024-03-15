@@ -64,4 +64,4 @@ if(!empty($catalogue)){$affiche.="<br /><br />Catalogue joint à la commande";}
 
 echo $affiche;
 
-?> 
+?>
