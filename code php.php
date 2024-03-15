@@ -1,5 +1,6 @@
 <link rel="stylesheet" type="text/css" href="css.css"/>
 <?php
+/*Mathis,15/03/2024, c'est un projet pour faire du café*/ 
 $cafe=$_POST["nomcafe"];
 if(!empty($_POST["type"])){$type=$_POST["type"];}
 if(!empty($_POST["cadeau"])){$cadeau=$_POST["cadeau"];}
