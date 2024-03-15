@@ -1,3 +1,4 @@
+			/* Kylian Aubineau 15/03/2024 */
 			var boolCafe=false;
                         var boolNom=false;
                         var boolAdresse=false;

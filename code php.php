@@ -1,5 +1,6 @@
 <link rel="stylesheet" type="text/css" href="css.css"/>
 <?php
+/* Kylian Aubineau 15/03/2024 */
 $cafe=$_POST["nomcafe"];
 if(!empty($_POST["type"])){$type=$_POST["type"];}
 if(!empty($_POST["cadeau"])){$cadeau=$_POST["cadeau"];}
