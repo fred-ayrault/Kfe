@@ -65,3 +65,8 @@ if(!empty($catalogue)){$affiche.="<br /><br />Catalogue joint à la commande";}
 echo $affiche;
 
 ?>
+<!--
+Gabriel
+15 mars 2024
+café
+-->
