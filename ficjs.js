@@ -23,7 +23,7 @@
 					}
                                         return boolCafe;
 			}
-
+//MENAGE BIMBENET 15/03/2024  projet kfe st paul
 			
 
 			function checkNom()

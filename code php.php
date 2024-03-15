@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css.css"/>
+<!-- MENAGE BIMBENET 15/03/2024  projet kfe st paul -->
 <?php
 $cafe=$_POST["nomcafe"];
 if(!empty($_POST["type"])){$type=$_POST["type"];}
