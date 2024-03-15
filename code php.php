@@ -1,3 +1,9 @@
+<!-- 
+    @Nom: CARPENTIER
+    @Date: 15/03/2024
+    @Commentaire: Site web afin de gérer les commandes de cafés
+-->
+
 <link rel="stylesheet" type="text/css" href="css.css"/>
 <?php
 $cafe=$_POST["nomcafe"];

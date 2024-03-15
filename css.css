@@ -1,13 +1,13 @@
-body{
+/* 
+@Nom: CARPENTIER
+@Date: 15/03/2024
+@Commentaire: Site web afin de gérer les commandes de cafés
+*/
+
+body {
     background: #D2B48C;
 }
 
 option {
-       font-family:verdana;
+    font-family: verdana;
 }
-
-
-
-
-
-
