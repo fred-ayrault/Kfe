@@ -1,3 +1,4 @@
+<!--Alexandre Pech Il s'agit d'un site permettant de commander un café-->
 <link rel="stylesheet" type="text/css" href="css.css"/>
 <?php
 $cafe=$_POST["nomcafe"];
