@@ -1,4 +1,5 @@
-			var boolCafe=false;
+//Alexandre Pech Il s'agit d'un site permettant de commander un café
+var boolCafe=false;
                         var boolNom=false;
                         var boolAdresse=false;
                         var boolVille=false;
