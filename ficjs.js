@@ -13,7 +13,7 @@
 				
 				if ((H.checked == false) && (F.checked == false))
 					{
-						idsexe.style.display=""; 
+						idsexe.style.display="";  
 						idsexe.style.color='red';
 					}
 				else
