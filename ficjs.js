@@ -1,3 +1,5 @@
+			// Tom dumonceau 15/02/24 - 11h18 - C'est un site de test permettant de commander des cafés à la machine à café de Saint Paul bourdon blanc (exo
+			
 			var boolCafe=false;
                         var boolNom=false;
                         var boolAdresse=false;
